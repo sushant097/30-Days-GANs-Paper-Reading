@@ -1,4 +1,3 @@
-# Deep Learning Paper Reading - Annotation, Summary & Scratch Implementation
 ![GitHub stars](https://img.shields.io/github/stars/sushant097/30-Days-GANs-Paper-Reading) 
 ![GitHub forks](https://img.shields.io/github/forks/sushant097/30-Days-GANs-Paper-Reading)
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/sushant097/30-Days-GANs-Paper-Reading//commits/master)
@@ -6,6 +5,8 @@
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](https://github.com/sushant097/30-Days-GANs-Paper-Reading)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/susan-gautam/)
 [![License](http://img.shields.io/:license-mit-blue.svg?style=flat-square)](http://badges.mit-license.org)
+
+# Deep Learning Paper Reading - Annotation, Summary & Scratch Implementation
 
 <h3>Follow me on :</h3>  
 
